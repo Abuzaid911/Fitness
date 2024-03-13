@@ -1,3 +1,5 @@
+// my edit
+
 export default function AboutSection() {
     const workoutImageUrl = 'https://www.insportline.cz/upload/image/category/Kategorie_Fitness_03.jpg';
     return (
